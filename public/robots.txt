@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /*
+Disallow: /disallow/file
+Disallow: /disallow/folder/
+Allow: /allow/file
+Allow: /allow/folder/
+Sitemap: http://127.0.0.1:8080/sitemap.xml
