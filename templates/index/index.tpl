@@ -5,6 +5,7 @@
 <p><a href="{{get_url('login_form_csrf')}}">Login CSRF</a></p>
 <p><a href="{{get_url('profile')}}">Profile</a></p>
 <p><a href="{{get_url('depth')}}">Depth</a></p>
+<p><a href="{{get_url('width')}}">Width</a></p>
 <p><a href="{{get_url('cycle')}}">Cycle</a></p>
 <p><a href="{{get_url('mixed')}}">Mixed</a></p>
 <p><a href="{{get_url('submit_form')}}">Submit</a></p>

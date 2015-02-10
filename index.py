@@ -20,5 +20,6 @@ import app.cycle
 import app.secret
 import app.submit
 import app.get
+import app.width
 
 run(host='localhost', port=8080, debug=True, reloader=True)
