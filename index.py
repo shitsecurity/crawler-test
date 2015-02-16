@@ -14,12 +14,12 @@ import app.profile
 import app.depth
 import app.robots
 import app.sitemap
-import app.error
 import app.mixed
 import app.cycle
 import app.secret
 import app.submit
 import app.get
 import app.width
+import app.error
 
 run(host='localhost', port=8080, debug=True, reloader=True)
